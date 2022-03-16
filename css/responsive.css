@@ -1,0 +1,1171 @@
+@media (max-width: 575.98px) { 
+    /* BackToTop part Start */
+    .back_to_top.bTot {
+        right: 10px;
+    }
+    .back_to_top a {
+        font-size: 18px;
+        width: 30px;
+        height: 30px;
+        border: 1px splid #744fa0;
+    }
+    .back_to_top a:hover {
+        border: 1px solid #744fa0;
+    }
+    /* BackToTop part End */
+
+    /* Navber part Start */
+    #navber {
+        padding-top: 10px;
+    }
+    #navber .nav_btn {
+        color: #744fa0 !important;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    #navber .logo{
+        width: 150px;
+    }
+    .sticky .logo{
+        width: 130px !important;
+    }
+     #navber ul{
+        background: #000000ce;
+        width: 150px;
+        text-align: center;
+    }
+    #navber ul li a{
+        margin: 10px 0;
+        font-size: 13px;
+    }
+    #navber ul li a.free{
+        margin: 10px 0;
+        font-size: 13px;
+        padding: 0;
+        padding: 7px 14px;
+    }
+    
+    /* Navber part End */
+
+    /* Banner part Start */
+    #banner .overlay {
+        padding-top: 121px;
+        padding-bottom: 70px;
+    }
+    #banner h1 {
+        font-size: 40px;
+        padding-bottom: 0px;
+    }
+    #banner h2 {
+        font-size: 22px;
+        height: 29px;
+        position: relative;
+    }
+    #banner p {
+        margin-bottom: 21px;
+    }
+    .slide .slick-dots {
+        position: absolute;
+        right: 25%;
+        transform: translateX(-50%);
+        top: 90% !important;
+        padding: 0;
+        margin: 0;
+        display: flex !important;
+        gap: 8px;
+    }
+    .availabe .item{
+        margin: 0 5px !important;
+        padding: 8px 10px !important;
+    }
+    #banner .availabe .item .icon {
+        font-size: 24px;
+    }
+    #banner .availabe .item .text h4 {
+        font-size: 12px;
+    }
+    #banner .availabe .item .text h3 {
+        font-size: 14px;
+    }
+    /* Banner part End */
+
+    /* About part Start */
+    #about {
+        padding-top: 28px;
+        padding-bottom: 16px;
+    }
+    #about h4 {
+        font-size: 18px;
+        margin: 0px !important;
+    }
+    #about p {
+        margin-top: 14px;
+        text-align: left;
+    }
+    #about .phone{
+        width: 80%;
+        margin: 0 auto !important;
+    }
+    .u_line{
+        width: 100px;
+    }
+    /* About part end */
+
+    /* Feature part end */
+    #feature h4 {
+        font-size: 18px;
+        margin: 0;
+    }
+    #feature button .option_item .icon {
+        font-size: 25px;
+        color: #353535;
+    }
+    #feature button .option_item .text h3 {
+        margin: 0;
+        margin-bottom: 10px;
+        font-size: 15px;
+    }
+    #feature button .option_item {
+        padding: 18px 0;
+    }
+    #feature button .option_item .text h3::after {
+        content: "";
+        width: 211px;
+        height: 1px;
+    }
+    #feature button.active .option_item .text h3::before {
+        width: 261px;
+        height: 1px;
+    }
+    #feature .screen_shot img{
+        width: 100%;
+    }
+    #feature .f_bottom_part{
+        margin-top: 35px;
+    }
+    #feature .details .details_item h3 {
+        margin: 0;
+        margin-bottom: 5px;
+        font-size: 14px;
+    }
+    #feature .details .details_item p {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    /* Feature part start */
+
+    /* ScreenShots part start */
+    #screenshot {
+        padding: 30px 0;
+    }
+    #screenshot .head {
+        margin-bottom: 20px;
+    }
+    #screenshot .head h4 {
+        font-size: 18px;
+        margin: 0;
+    }
+    #screenshot .head h4 {
+        font-size: 18px;
+        margin: 0;
+    }
+    /* ScreenShots part end */
+
+    /* Video part start */
+    #video .video_main .overlay {
+        padding: 40px 0;
+    }
+    #video .video_main .overlay .play_icon{
+        width: 40px;
+    }
+    #video .heading {
+        margin-bottom: 20px;
+    }
+    #video .heading h4 {
+        font-size: 18px;
+        margin: 0;
+    }
+    /* Video part end */
+
+    /* Plan part start */
+    #plan {
+        padding-top: 35px;
+        padding-bottom: 70px;
+    }
+    #plan .header {
+        margin-bottom: 10px;
+    }
+    #plan .header h4 {
+        font-size: 18px;
+        margin: 0;
+    }
+    #plan .plan_item{
+        margin: 20px 10px;
+    }
+    #plan .plan_item .plan_name h5 {
+        padding: 14px 0;
+        font-size: 16px;
+        margin: 0;
+    }
+    #plan .plan_details {
+        padding-top: 25px;
+        padding-bottom: 27px;
+    }
+    #plan .plan_details a {
+        padding: 7px 14px;
+        font-size: 13px;
+    }
+    #plan .plan_details ul li p {
+        font-size: 13px;
+    }
+    #plan .plan_price {
+        padding: 15px 0;
+    }
+    #plan .plan_price .plan_circle h3 .full {
+        font-size: 40px;
+    }
+    #plan .plan_price .plan_circle h3 .cent {
+        font-size: 16px;
+    }
+    #plan .plan_price .plan_circle h4 {
+        font-size: 13px;
+    }
+    #plan .plan_price .plan_circle {
+        width: 100px;
+        height: 100px;
+    }
+    /* Plan part end */
+
+    /* Team part start */
+    #team {
+        padding-bottom: 35px;
+    }
+    #team .header h4 {
+        font-size: 18px;
+        margin: 0;
+    }
+    #team .team_item {
+        margin: 5px 10px;
+    }
+    #team .header {
+        margin-bottom: 30px;
+    }
+    #team .team_item .img_part .overlay .icon {
+        width: 35px;
+        height: 35px;
+        font-size: 18px;
+        line-height: 35px;
+    }
+    #team .team_item .text_part {
+        position: relative;
+        bottom: 10px;
+    }
+    #team .team_item:hover .text_part {
+        position: relative;
+        bottom: 10px;
+    }
+    #team .team_item .text_part h5 {
+        font-size: 13px;
+    }
+    #team .team_item .text_part h4 {
+        font-size: 16px;
+    }
+    #team .team_item:hover .img_part {
+        position: relative;
+        top: 0;
+    }
+    #team .team_item .text_part p {
+        font-size: 13px;
+        padding: 0 43px;
+        margin: 0;
+    }
+    /* Team part end */
+
+    /* User part start */
+    #user .overlay {
+        padding-top: 44px;
+        padding-bottom: 50px;
+    }
+    #user .overlay .user_review {
+        padding: 20px 30px;
+        margin-bottom: 15px;
+    }
+    #user .overlay .user_review h5::after {
+        width: 25px;
+        height: 25px;
+        bottom: -12px;
+        border-radius: 0px 0px 7px 0px;
+    }
+    #user .overlay .user_pic .pic {
+        width: 75px;
+        height: 75px;
+    }
+    #user .overlay .user_pic .slick-center .pic {
+        border: 2px solid #744fa0;
+    }
+    #user .user_pic .slick-dots {
+        bottom: -40px;
+    }
+    /* User part end */
+    
+    /* GetInTouch part start */
+    #get_in_touch {
+        padding: 40px 0;
+    }
+    #get_in_touch .header h4 {
+        font-size: 18px;
+        margin: 0;
+    }
+    #get_in_touch .header {
+        margin-bottom: 25px;
+    }
+    #get_in_touch input {
+        padding: 7px 14px;
+        border-radius: 7px;
+        font-size: 13px;
+        margin: 5px 0;
+    }
+    #get_in_touch textarea {
+        padding: 10px;
+        border-radius: 7px;
+        margin-top: 5px;
+        font-size: 13px;
+    }
+    #get_in_touch .send_btn {
+        font-size: 14px;
+        font-weight: 600;
+        padding: 7px 14px;
+        margin-top: 15px;
+    }
+    /* GetInTouch part end */
+
+    /* Footer part start */
+    footer {
+        padding: 20px 0;
+    }
+    footer .logo img {
+        width: 150px;
+    }
+    footer .icon_part {
+        gap: 7px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    footer .icon_part a {
+        width: 35px;
+        height: 35px;
+        font-size: 16px;
+        line-height: 35px;
+    }
+    footer .copyright p {
+        font-size: 13px;
+        margin: 0;
+    }
+    /* Footer part end */
+ }
+@media(min-width: 576px) and (max-width: 767.98px){
+     /* Navber part Start */
+    #navber {
+        padding-top: 10px;
+    }
+    #navber .nav_btn {
+        color: #744fa0 !important;
+        border: none;
+        font-size: 25px;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    #navber .logo{
+        width: 190px;
+    }
+    .sticky .logo{
+        width: 130px !important;
+    }
+     #navber ul{
+        background: #000000ce;
+        width: 150px;
+        text-align: center;
+    }
+    #navber ul li a{
+        margin: 10px 0;
+        font-size: 13px;
+    }
+    #navber ul li a.free{
+        margin: 10px 0;
+        font-size: 13px;
+        padding: 0;
+        padding: 7px 14px;
+    }
+    
+    /* Navber part End */
+
+    /* Banner part Start */
+    #banner .overlay {
+        padding-top: 139px;
+        padding-bottom: 90px;
+    }
+    #banner h1 {
+        font-size: 50px;
+        padding-bottom: 0px;
+    }
+    #banner h2 {
+        font-size: 25px;
+        height: 33px;
+        position: relative;
+    }
+    #banner p {
+        margin-bottom: 21px;
+    }
+    .slide .slick-dots {
+        position: absolute;
+        right: 38%;
+        transform: translateX(-50%);
+        top:  88% !important;
+        padding: 0;
+        margin: 0;
+        display: flex !important;
+        gap: 8px;
+    }
+    .availabe .item{
+        margin: 0 5px !important;
+        padding: 8px 10px !important;
+    }
+    #banner .availabe .item .icon {
+        font-size: 24px;
+    }
+    #banner .availabe .item .text h4 {
+        font-size: 12px;
+    }
+    #banner .availabe .item .text h3 {
+        font-size: 14px;
+    }
+    /* Banner part End */
+
+    /* About part Start */
+    #about {
+        padding-top: 45px;
+        padding-bottom: 25px;
+    }
+    #about h4 {
+        font-size: 22px;
+        margin: 0px !important;
+    }
+    #about p {
+        margin-top: 14px;
+        text-align: left;
+    }
+    #about .phone{
+        width: 80%;
+        margin: 0 auto !important;
+    }
+    .u_line{
+        width: 115px;
+    }
+    /* About part end */
+    
+    /* Feature part end */
+    #feature h4 {
+        font-size: 22px;
+        margin: 0;
+    }
+    #feature button .option_item .icon {
+        font-size: 30px;
+        color: #353535;
+    }
+    #feature button .option_item .text h3 {
+        margin: 0;
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
+    #feature button .option_item {
+        padding: 18px 0;
+    }
+    #feature button .option_item .text h3::after {
+        content: "";
+        width: 211px;
+        height: 1px;
+    }
+    #feature button.active .option_item .text h3::before {
+        width: 261px;
+        height: 1px;
+    }
+    #feature .screen_shot img{
+        width: 100%;
+    }
+    #feature .f_bottom_part{
+        margin-top: 45px;
+    }
+    #feature .details .details_item h3 {
+        margin: 0;
+        margin-bottom: 5px;
+        font-size: 18px;
+    }
+    #feature .details .details_item p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    /* Feature part start */
+    
+    /* ScreenShots part start */
+    #screenshot {
+        padding: 30px 0;
+    }
+    #screenshot .head {
+        margin-bottom: 34px;
+    }
+    #screenshot .head h4 {
+        font-size: 18px;
+        margin: 0;
+    }
+    #screenshot .head h4 {
+        font-size: 18px;
+        margin: 0;
+    }
+    /* ScreenShots part end */
+
+    /* Video part start */
+    #video .video_main .overlay {
+        padding: 90px 0;
+    }
+    #video .video_main .overlay .play_icon{
+        width: 50px;
+    }
+    #video .heading {
+        margin-bottom: 20px;
+    }
+    #video .heading h4 {
+        font-size: 18px;
+        margin: 0;
+    }
+    /* Video part end */
+
+    /* Plan part start */
+    #plan {
+        padding-top: 35px;
+        padding-bottom: 70px;
+    }
+    #plan .header {
+        margin-bottom: 10px;
+    }
+    #plan .header h4 {
+        font-size: 18px;
+        margin: 0;
+    }
+    #plan .plan_item{
+        margin: 25px 25px;
+    }
+    #plan .plan_item .plan_name h5 {
+        padding: 17px 0;
+        font-size: 20px;
+        margin: 0;
+    }
+    #plan .plan_details {
+        padding-top: 25px;
+        padding-bottom: 27px;
+    }
+    #plan .plan_details a {
+        padding: 9px 18px;
+        font-size: 15px;
+    }
+    #plan .plan_details ul li p {
+        font-size: 15px;
+    }
+    #plan .plan_price {
+        padding: 20px 0;
+    }
+    #plan .plan_price .plan_circle h3 .full {
+        font-size: 48px;
+    }
+    #plan .plan_price .plan_circle h3 .cent {
+        font-size: 20px;
+    }
+    #plan .plan_price .plan_circle h4 {
+        font-size: 13px;
+    }
+    #plan .plan_price .plan_circle {
+        width: 110px;
+        height: 110px;
+    }
+    /* Plan part end */
+    
+    /* Team part start */
+    #team {
+        padding-bottom: 35px;
+    }
+    #team .header h4 {
+        font-size: 18px;
+        margin: 0;
+    }
+    #team .team_item {
+        margin: 10px 35px;
+    }
+    #team .header {
+        margin-bottom: 30px;
+    }
+    #team .team_item .img_part .overlay .icon {
+        width: 35px;
+        height: 35px;
+        font-size: 18px;
+        line-height: 35px;
+    }
+    #team .team_item .text_part {
+        position: relative;
+        bottom: 10px;
+    }
+    #team .team_item:hover .text_part {
+        position: relative;
+        bottom: 10px;
+    }
+    #team .team_item .text_part h5 {
+        font-size: 14px;
+    }
+    #team .team_item .text_part h4 {
+        font-size: 19px;
+    }
+    #team .team_item:hover .img_part {
+        position: relative;
+        top: 0;
+    }
+    #team .team_item .text_part p {
+        font-size: 13px;
+        padding: 0 43px;
+        margin: 0;
+    }
+    #team .team_item .img_part .overlay .icon:hover {
+        width: 40px;
+        height: 40px;
+        background: #1da1f2;
+        border-radius: 50%;
+        font-size: 18px;
+        color: #ffffff;
+        text-align: center;
+        line-height: 40px;
+    }
+    /* Team part end */
+    
+    /* User part start */
+    #user .overlay {
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+    #user .overlay .user_review {
+        padding: 20px 30px;
+        margin-bottom: 15px;
+    }
+    #user .overlay .user_review h5::after {
+        width: 25px;
+        height: 25px;
+        bottom: -12px;
+        border-radius: 0px 0px 7px 0px;
+    }
+    #user .overlay .user_pic .pic {
+        width: 90px;
+        height: 90px;
+    }
+    #user .overlay .user_pic .slick-center .pic {
+        border: 2px solid #744fa0;
+    }
+    #user .user_pic .slick-dots {
+        bottom: -40px;
+    }
+    /* User part end */
+    
+    /* GetInTouch part start */
+    #get_in_touch {
+        padding: 40px 0;
+    }
+    #get_in_touch .header h4 {
+        font-size: 18px;
+        margin: 0;
+    }
+    #get_in_touch .header {
+        margin-bottom: 25px;
+    }
+    #get_in_touch input {
+        padding: 7px 14px;
+        border-radius: 7px;
+        font-size: 14px;
+        margin: 5px 0;
+    }
+    #get_in_touch textarea {
+        padding: 10px;
+        border-radius: 7px;
+        margin-top: 5px;
+        font-size: 13px;
+    }
+    #get_in_touch .send_btn {
+        font-size: 15px;
+        font-weight: 600;
+        padding: 9px 18px;
+        margin-top: 15px;
+    }
+    /* GetInTouch part end */
+
+    /* Footer part start */
+    footer {
+        padding: 20px 0;
+    }
+    footer .logo img {
+        width: 150px;
+    }
+    footer .icon_part {
+        gap: 7px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    footer .icon_part a {
+        width: 35px;
+        height: 35px;
+        font-size: 16px;
+        line-height: 35px;
+    }
+    footer .copyright p {
+        font-size: 13px;
+        margin: 0;
+    }
+    /* Footer part end */
+}
+@media(min-width: 768px) and (max-width: 991.98px) { 
+    /* Navber part Start */
+    #navber {
+        padding-top: 10px;
+    }
+    #navber .nav_btn {
+        color: #744fa0 !important;
+        border: none;
+        font-size: 32px;
+        transition: all linear .4s;
+    }
+    .sticky .nav_btn {
+        font-size: 24px !important;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    #navber .logo{
+        width: 220px;
+    }
+    .sticky .logo{
+        width: 150px !important;
+    }
+     #navber ul{
+        background: #000000ce;
+        width: 150px;
+        text-align: center;
+    }
+    #navber ul li a{
+        margin: 11px 0;
+        font-size: 14px;
+    }
+    #navber ul li a.free{
+        margin: 10px 0;
+        font-size: 14px;
+        padding: 0;
+        padding: 7px 14px;
+    }
+    /* Navber part End */
+
+    /* Banner part Start */
+    #banner .overlay {
+        padding-top: 139px;
+        padding-bottom: 90px;
+    }
+    #banner h1 {
+        font-size: 50px;
+        padding-bottom: 0px;
+    }
+    #banner h2 {
+        font-size: 25px;
+        height: 33px;
+        position: relative;
+    }
+    #banner p {
+        margin-bottom: 21px;
+    }
+    .slide .slick-dots {
+        position: absolute;
+        right: 40%;
+        transform: translateX(-50%);
+        top:  88% !important;
+        padding: 0;
+        margin: 0;
+        display: flex !important;
+        gap: 8px;
+    }
+    .availabe .item{
+        margin: 0 5px !important;
+        padding: 12px 14px !important;
+    }
+    #banner .availabe .item .icon {
+        font-size: 24px;
+    }
+    #banner .availabe .item .text h4 {
+        font-size: 12px;
+    }
+    #banner .availabe .item .text h3 {
+        font-size: 14px;
+    }
+    /* Banner part End */
+
+    /* About part Start */
+    #about {
+        padding-top: 45px;
+        padding-bottom: 25px;
+    }
+    #about h4 {
+        font-size: 22px;
+        margin: 0px !important;
+    }
+    #about p {
+        margin-top: 14px;
+        text-align: left;
+    }
+    #about .phone{
+        width: 100%;
+        margin: 0 auto !important;
+    }
+    .u_line{
+        width: 115px;
+    }
+    /* About part end */
+
+    /* Feature part Start */
+    #feature h4 {
+        font-size: 22px;
+        margin: 0;
+    }
+    #feature button .option_item .icon {
+        font-size: 23px;
+        color: #353535;
+    }
+    #feature button .option_item .text h3 {
+        margin: 0;
+        margin-bottom: 7px;
+        font-size: 16px;
+    }
+    #feature button .option_item {
+        padding: 18px 0;
+    }
+    #feature button .option_item .text h3::after {
+        content: "";
+        width: 165px;
+        height: 1px;
+    }
+    #feature button.active .option_item .text h3::before {
+        width: 197px;
+        height: 2px;
+    }
+    #feature .screen_shot img{
+        width: 100%;
+    }
+    #feature .f_bottom_part{
+        margin-top: 45px;
+    }
+    #feature .details .details_item h3 {
+        margin: 0;
+        margin-bottom: 5px;
+        font-size: 18px;
+    }
+    #feature .details .details_item p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    /* Feature part end */
+    
+    /* ScreenShots part start */
+    #screenshot {
+        padding: 30px 0;
+    }
+    #screenshot .head {
+        margin-bottom: 34px;
+    }
+    #screenshot .head h4 {
+        font-size: 22px;
+        margin: 0;
+    }
+    /* ScreenShots part end */
+
+    
+    /* Video part start */
+    #video .video_main .overlay {
+        padding: 100px 0;
+    }
+    #video .video_main .overlay .play_icon{
+        width: 60px;
+    }
+    #video .heading {
+        margin-bottom: 20px;
+    }
+    #video .heading h4 {
+        font-size: 22px;
+        margin: 0;
+    }
+    /* Video part end */
+
+    /* Plan part start */
+    #plan {
+        padding-top: 35px;
+        padding-bottom: 70px;
+    }
+    #plan .header {
+        margin-bottom: 10px;
+    }
+    #plan .header h4 {
+        font-size: 22px;
+        margin: 0;
+    }
+    #plan .plan_item{
+        margin: 25px 5px;
+    }
+    #plan .plan_item .plan_name h5 {
+        padding: 17px 0;
+        font-size: 20px;
+        margin: 0;
+    }
+    #plan .plan_details {
+        padding-top: 25px;
+        padding-bottom: 27px;
+    }
+    #plan .plan_details a {
+        padding: 9px 18px;
+        font-size: 15px;
+    }
+    #plan .plan_details ul li p {
+        font-size: 15px;
+    }
+    #plan .plan_price {
+        padding: 20px 0;
+    }
+    #plan .plan_price .plan_circle h3 .full {
+        font-size: 48px;
+    }
+    #plan .plan_price .plan_circle h3 .cent {
+        font-size: 20px;
+    }
+    #plan .plan_price .plan_circle h4 {
+        font-size: 13px;
+    }
+    #plan .plan_price .plan_circle {
+        width: 110px;
+        height: 110px;
+    }
+    /* Plan part end */
+    
+    /* Team part start */
+    #team {
+        padding-bottom: 35px;
+    }
+    #team .header h4 {
+        font-size: 22px;
+        margin: 0;
+    }
+    #team .team_item {
+        margin: 10px 10px;
+    }
+    #team .header {
+        margin-bottom: 30px;
+    }
+    #team .team_item .img_part .overlay .icon {
+        width: 35px;
+        height: 35px;
+        font-size: 18px;
+        line-height: 35px;
+    }
+    #team .team_item .text_part {
+        position: relative;
+        bottom: 10px;
+    }
+    #team .team_item:hover .text_part {
+        position: relative;
+        bottom: 10px;
+    }
+    #team .team_item .text_part h5 {
+        font-size: 14px;
+    }
+    #team .team_item .text_part h4 {
+        font-size: 19px;
+    }
+    #team .team_item:hover .img_part {
+        position: relative;
+        top: 0;
+    }
+    #team .team_item .text_part p {
+        font-size: 13px;
+        padding: 0 43px;
+        margin: 0;
+    }
+    #team .team_item .img_part .overlay .icon:hover {
+        width: 40px;
+        height: 40px;
+        background: #1da1f2;
+        border-radius: 50%;
+        font-size: 18px;
+        color: #ffffff;
+        text-align: center;
+        line-height: 40px;
+    }
+    /* Team part end */
+    
+    /* User part start */
+    #user .overlay {
+        padding-top: 60px;
+        padding-bottom: 65px;
+    }
+    #user .overlay .user_review {
+        padding: 20px 30px;
+        margin-bottom: 15px;
+    }
+    #user .overlay .user_review h5::after {
+        width: 25px;
+        height: 25px;
+        bottom: -12px;
+        border-radius: 0px 0px 7px 0px;
+    }
+    #user .overlay .user_pic .pic {
+        width: 90px;
+        height: 90px;
+    }
+    #user .overlay .user_pic .slick-center .pic {
+        border: 2px solid #744fa0;
+    }
+    #user .user_pic .slick-dots {
+        bottom: -45px;
+    }
+    /* User part end */
+    
+    /* GetInTouch part start */
+    #get_in_touch {
+        padding: 40px 0;
+    }
+    #get_in_touch .header h4 {
+        font-size: 22px;
+        margin: 0;
+    }
+    #get_in_touch .header {
+        margin-bottom: 25px;
+    }
+    #get_in_touch input {
+        padding: 9px 14px;
+        border-radius: 7px;
+        font-size: 14px;
+        margin: 5px 0;
+    }
+    #get_in_touch textarea {
+        padding: 10px;
+        border-radius: 7px;
+        margin-top: 5px;
+        font-size: 13px;
+    }
+    #get_in_touch .send_btn {
+        font-size: 15px;
+        font-weight: 600;
+        padding: 9px 18px;
+        margin-top: 15px;
+    }
+    /* GetInTouch part end */
+
+    /* Footer part start */
+    footer {
+        padding: 30px 0;
+    }
+    footer .logo img {
+        width: 150px;
+    }
+    footer .icon_part {
+        gap: 7px;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    footer .icon_part a {
+        width: 40px;
+        height: 40px;
+        font-size: 18px;
+        line-height: 40px;
+    }
+    footer .copyright p {
+        font-size: 14px;
+        margin: 0;
+    }
+    /* Footer part end */
+}
+@media(min-width: 992px) and (max-width:1199.98px) {
+    /* Banner part Start */
+    .slide .slick-dots {
+        right: 0.5%;
+    }
+    .slide .slick-dots #slick-slide-control00::before {
+        font-size: 16px;
+        left: -6%;
+        top: -28%;
+    }
+    .slide .slick-dots li button {
+        font-size: 0;
+        height: 16px;
+        width: 16px;
+        border: 2px solid #ffffff;
+        border-radius: 50%;
+        background: transparent;
+    }
+    #banner h2 {
+        font-size: 30px;
+        height: 52px;
+    }
+    #banner .availabe .item .text h3 {
+        font-size: 16px;
+    }
+    #banner p {
+        margin-bottom: 47px;
+    }
+    /* Banner part End */
+
+    /* About part Start */
+    #about .phone{
+        width: 100%;
+    }
+    /* About part end */
+
+    /* Feature part Start */
+    #feature button .option_item .icon {
+        font-size: 35px;
+        line-height: 1;
+    }
+    #feature button .option_item .text h3::after {
+        width: 85%;
+    }
+    #feature button.active .option_item .text h3::before {
+        width: 100%;
+    }
+    /* Feature part end */
+ 
+    /* Team part start */
+    #team .team_item:hover .img_part {
+        top: -95px;
+    }
+    #team .team_item:hover .text_part {
+        bottom: -112px;
+    }
+    #team .team_item .text_part p {
+        padding: 0 26px;
+    }
+    /* Team part end */
+
+}
+@media(min-width: 1200px) and (max-width:1399.98px){
+    /* Banner part Start */
+    .slide .slick-dots {
+        right: .8%;
+    }
+    .slide .slick-dots #slick-slide-control00::before {
+        left: -6%;
+        top: -28%;
+    }
+    /* Banner part End */
+
+    #feature .u_line{
+        margin-bottom: 30px;
+    }
+    /* Feature part end */
+}
+
